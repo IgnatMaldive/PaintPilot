@@ -5,7 +5,9 @@ tagline: The Smart Paint Easel
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
+{% include youtube.html id="iNZzgFDwg7o" %}
 
+&nbsp;
 
 ## Story
 
@@ -33,13 +35,12 @@ PaintPilot converts any image into a step-by-step visual guide overlaid on canva
 <br> 
 
 ![14](https://user-images.githubusercontent.com/36450446/221358111-0e2ab1eb-8ddb-4e09-822d-b6628a2468d8.jpg)
-<br> 
+
 &nbsp;
 
 Paint with precision, mix perfect colors, and share your creations with the world. 
 
 &nbsp;
-
 
 
 ![5](https://user-images.githubusercontent.com/36450446/221358199-9f5a34c7-e8df-4403-8ba8-fda836572928.png)
@@ -158,6 +159,8 @@ Tabletop configuration for phone and tablet allows for adjustable inclination an
 ### Share Your Work
 
 Share your creations and collaborate during video calls. PaintPilot is the ultimate content creation tool for all your social media platforms.
+
+&nbsp;
 
 ![6](https://user-images.githubusercontent.com/36450446/221358201-bed584dc-a2dd-4739-8052-e595a276b95f.png)
 
