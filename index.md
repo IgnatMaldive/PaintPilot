@@ -198,11 +198,9 @@ Alternatively, for those who enjoy a more hands-on approach, the Basic version o
 
 So why wait? Take your artwork to the next level with PaintPilot and its versatile product packs, choose the one that's right for you today!
 
- 49$       PaintPilot Phone Basic          Some assembly required
- 79$       PaintPilot Tablet Basic         Some assembly required
-149$       PaintPilot Phone Pack           Fully assembled 
-199$       PaintPilot Tablet Pack          Fully assembled 
 
+
+![precios2](https://user-images.githubusercontent.com/36450446/221424773-de969207-972b-4e0b-a1ee-8eda25122e5c.png)
 
 &nbsp;
 
@@ -226,7 +224,7 @@ So why wait? Take your artwork to the next level with PaintPilot and its versati
 &nbsp;
 
 ### Where did this project come from?
-PaintPilot was created with inspiration from the fascinating theories presented in the book "Secret Knowledge" by David Hockney and the documentary movie "Tim's Vermeer". These works explored the techniques used by the old masters to achieve stunning works of art, and PaintPilot brings these techniques into the digital realm. With PaintPilot, you can use the same methods as the masters to achieve the perfect shapes, colors, and values in your artwork.
+PaintPilot was created with inspiration from the fascinating theories presented in the book "Secret Knowledge" by David Hockney and the documentary movie "Tim's Vermeer". These works explored the techniques used by the old masters to achieve stunning works of art, and PaintPilot brings these techniques into the digital realm. 
 
 
 
@@ -234,20 +232,7 @@ PaintPilot was created with inspiration from the fascinating theories presented 
 
 &nbsp;
 
-### Support
-        ◦ Make a pledge without a reward
-       €
-       Pledge any amount
-        ◦ Pledge €95 or more
-              Early-bird PaintPilot
-       Early bird edition
-       Includes
-        ◦ PaintPilot
-        ◦ Clip-on LED light
-        ◦ Chromatic cirle
-       Estimated delivery
-       Ships toAnywhere in the world
-       Limited (40 left of 40)
+
 
 
 
