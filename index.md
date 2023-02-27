@@ -91,7 +91,9 @@ Break down the image palette and mix the perfect values steps by using the monoc
 
 ![7](https://user-images.githubusercontent.com/36450446/221358133-2fb7e7e3-0b86-48c4-96b9-5777226ece22.jpg)
 
-*mixcheck--GIF*
+&nbsp;
+
+![vga_wide_low](https://user-images.githubusercontent.com/36450446/221537170-178f90cf-af97-4e82-be13-8371bae6f7ef.gif)
 
 &nbsp;
 
