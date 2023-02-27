@@ -1,8 +1,7 @@
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
-  font-size: 120%;
-  line-height: 1.8;}
+  font-size: 120%;}
 
 .container-narrow > hr {
   margin: 30px 0; }
