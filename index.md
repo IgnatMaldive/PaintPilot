@@ -2,7 +2,7 @@
 layout: page
 title: PaintPilot 
 tagline: The Smart Paint Easel
-description: Minimal tutorial on making a simple website with GitHub Pages
+description: Learn to paint better, faster
 ---
 
 {% include youtube.html id="iNZzgFDwg7o" %}
@@ -11,8 +11,7 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 
 ## Story
 
-
-PaintPilot transforms your phone or tablet into a personal paint coach. Experience precise control over shapes, values and colors. It's a smart paint-by-numbers solution for artists of all ages and levels.
+With PaintPilot, anyone can learn to paint and draw with greater accuracy and speed, regardless of their skill level or experience. It transforms your phone or tablet into a personal painting coach.
 
 &nbsp;
 
@@ -30,7 +29,7 @@ PaintPilot transforms your phone or tablet into a personal paint coach. Experien
 
 ### Augmented paint-by-numbers
 
-PaintPilot converts any image into a step-by-step visual guide overlaid on canvas using Augmented Reality. It also helps you get the paint colors and value steps exactly right. 
+Convert any image into a step-by-step visual guide overlaid on canvas using Augmented Reality and get the paint colors and value steps exactly right. 
 
 <br> 
 
@@ -38,7 +37,7 @@ PaintPilot converts any image into a step-by-step visual guide overlaid on canva
 
 &nbsp;
 
-Paint with precision, mix perfect colors, and share your creations with the world. 
+Beginners can learn to paint faster and better, solving the problem of overwhelming complexity and frustration that often comes with learning how to paint.
 
 &nbsp;
 
@@ -47,7 +46,7 @@ Paint with precision, mix perfect colors, and share your creations with the worl
 
 &nbsp;
 
-The focus on detail is made effortless. Whether you're working on a large canvas or a small section, you can zoom in for increased precision, ensuring every stroke is exactly where you want it. 
+Whether you're working on a large canvas or a small section, you can zoom in for increased precision, ensuring every stroke is exactly where you want it. 
 
 &nbsp;
 
@@ -56,7 +55,7 @@ The focus on detail is made effortless. Whether you're working on a large canvas
 
 &nbsp;
 
-Use it for the initial sketch, just the under-paint or go all the way Alla Prima. Upgrade your art experience with PaintPilot - the intelligent way to paint.
+Use it for the initial sketch, just the under-paint or go all the way Alla Prima. Upgrade your art experience with the world's first smart paint easel.
 
 &nbsp;
 
@@ -64,7 +63,7 @@ Use it for the initial sketch, just the under-paint or go all the way Alla Prima
 
 ### See-through base 
 
-With PaintPilot's see-through base, you can slide across the canvas to cover a larger surface. It is designed to fit any canvas configuration, ensuring that the creative process adapts to your own style.
+With PaintPilot's see-through base, you can slide across the canvas to cover a larger surface, fitting any canvas configuration.
 
 
 &nbsp;
@@ -84,7 +83,7 @@ With PaintPilot's see-through base, you can slide across the canvas to cover a l
 ### Precise Color Mixing
 
 
-Break down the image palette and mix the perfect values steps by using the monochromatic filter. When your mix matches the value it simply disappears on screen.
+Break down the image palette and mix the perfect values steps by using the monochromatic filter. When your mix matches the reference it simply disappears on screen.
 
 &nbsp;
 
@@ -147,7 +146,7 @@ Use PaintPilot Phone as a standalone sketch-board and take your creativity with 
 
 ### Desktop Easel
 
-Tabletop configuration for phone and tablet allows for adjustable inclination and rotation for comfortable painting. It maintains the relative position between your phone and canvas in both vertical and horizontal layouts. The device also features height adjustment, so you can cover a wider painting area.
+Tabletop configuration for phone and tablet allows for adjustable inclination and rotation for comfortable painting. It also features height adjustment, so you can cover a wider painting area.
 
 &nbsp;
 
@@ -158,22 +157,15 @@ Tabletop configuration for phone and tablet allows for adjustable inclination an
 &nbsp;
 
 
-### Share Your Work
-
-Share your creations and collaborate during video calls. PaintPilot is the ultimate content creation tool for all your social media platforms.
-
-&nbsp;
-
-![6](https://user-images.githubusercontent.com/36450446/221358201-bed584dc-a2dd-4739-8052-e595a276b95f.png)
-
-&nbsp;
-
-&nbsp;
-
-
 ### iOS and Android Apps
 
-The PaintPilot App for iOS and Android will be available for both smart-phones and tablets. It provides features that complement popular tracing apps such as Camera Lucida and DaVinci Eye with powerful color matching features that take your painting experience to the next level. 
+The PaintPilot App, developed with  the Flutter framework features :
+
+             Breaking down the image into value steps
+             Mixing the paint steps with precision
+             Applying the paint on the canvas
+
+The PaintPilot App is the perfect complement for tracing apps such as Camera Lucida and DaVinci Eye, adding powerful color matching and image segmentation features that take the painting experience to the next level. 
 
 &nbsp;
 
