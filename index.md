@@ -159,11 +159,11 @@ Tabletop configuration for phone and tablet allows for adjustable inclination an
 
 ### iOS and Android Apps
 
-The PaintPilot App, developed with  the Flutter framework features :
+The PaintPilot App, developed with  the Flutter framework, has the following features :
 
-             Breaking down the image into value steps
-             Mixing the paint steps with precision
-             Applying the paint on the canvas
+1. Breaking down the image into value steps
+2. Mixing the paint steps with precision
+3. Applying the paint on the canvas
 
 The PaintPilot App is the perfect complement for tracing apps such as Camera Lucida and DaVinci Eye, adding powerful color matching and image segmentation features that take the painting experience to the next level. 
 
